@@ -1,0 +1,27 @@
+body{
+    font-family:Gill Sans;
+}
+
+.listheader{
+    background-color:lightsalmon;
+    text-transform:uppercase;
+    text-align:center;
+    border:1px solid black;
+    width:648.2px
+}
+
+.listname{
+    background-color:rgb(33, 151, 241);
+    height:0;
+    width:190px;
+    text-decoration:underline solid;
+    margin-top:1px
+}
+
+table{
+    display:inline-block;
+    background-color:rgb(33, 151, 241);
+    border:1px solid black;
+    padding:3px;
+    margin:3px;
+}
